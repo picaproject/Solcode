@@ -1,2 +1,1 @@
-# Solcode
-picaproject
+# Solcode ERC20
